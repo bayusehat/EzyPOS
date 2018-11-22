@@ -1,0 +1,9 @@
+Logo EZYPAY
+
+Merah Camine
+#D5001C
+RGB 213,0,28
+
+Orange
+#F58634
+RGB 245,134,52
